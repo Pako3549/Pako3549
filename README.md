@@ -1,6 +1,6 @@
 # Hi there! I'm Pako 👋
 Welcome to my Github account! 🎉  
-I'm computer science student passionate about coding and videogames, always looking for new challenges and opportunities to learn something new.
+I'm a computer science student passionate about coding and videogames, always looking for new challenges and opportunities to learn something new.
 ## 🌟 About Me
 - 🎓 **Student** with a passion for programming and software development.
 - 🎮 **Gamer** in my free time, with an eye for game design and game mechanics.
