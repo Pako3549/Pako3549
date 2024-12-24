@@ -1,4 +1,4 @@
-# Hi there! I'm Pako3549 👋
+# Hi there! I'm Pako 👋
 Welcome to my Github account! 🎉  
 I'm computer science student passionate about coding and videogames, always looking for new challenges and opportunities to learn something new.
 ## 🌟 About Me
