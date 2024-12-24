@@ -4,7 +4,7 @@ I'm computer science student passionate about coding and videogames, always look
 ## 🌟 About Me
 - 🎓 **Student** with a passion for programming and software development.
 - 🎮 **Gamer** in my free time, with an eye for game design and game mechanics.
-- 💻 **Main languages**: TypeScript, C++ and Python.
+- 💻 **Main languages**: TypeScript, C and Python.
 
 ## 🚀 Highlighted Projects
 - **[QuickCards](https://github.com/Pako3549/QuickCards)**: A React Native app that simplifies business card exchange using NFC technology.
