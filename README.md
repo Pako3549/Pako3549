@@ -35,9 +35,9 @@ I'm computer science student passionate about coding and videogames, always look
 ## 📫 Contacts
 <div align="left">
     <a href="https://t.me/pako3549">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="70" height="70" alt="telegram"/>
+    <img src=""https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="70" height="70" alt="telegram"/>
   </a>
   <a href="https://www.linkedin.com/in/pako3549">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="70" height="70" alt="linkedin"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="70" height="70" alt="linkedin"/>
   </a>
 </div>
