@@ -1,5 +1,5 @@
 # Hi there! I'm Pako 👋
-Welcome to my Github account! 🎉  
+Welcome to my GitHub account! 🎉  
 I'm a computer science student passionate about coding and videogames, always looking for new challenges and opportunities to learn something new.
 ## 🌟 About Me
 - 🎓 **Student** with a passion for programming and software development.
