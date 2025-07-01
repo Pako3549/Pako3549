@@ -7,7 +7,7 @@ I'm a computer science student passionate about coding and videogames, always lo
 - 💻 **Main languages**: TypeScript, C and Python.
 
 ## 🚀 Highlighted Projects
-- **[Guardians of the Void Cleanup Chaos](https://github.com/IvI-devs/cleanup-chaos)**: An exciting 2D space game built with Phaser 3 and TypeScript. Navigate through asteroid fields, collect space debris, and clean up the cosmos while avoiding dangerous obstacles.
+- **[Guardians of the Void Cleanup Chaos](https://github.com/lvl-devs/cleanup-chaos)**: An exciting 2D space game built with Phaser 3 and TypeScript. Navigate through asteroid fields, collect space debris, and clean up the cosmos while avoiding dangerous obstacles.
 - **[dotfiles](https://github.com/Pako3549/dotfiles)**: My personal Linux setup with hyprland-based configuration focused on productivity and aesthetics, including custom scripts and tweaks for a smooth daily workflow.
 - **[QuickCards](https://github.com/Pako3549/QuickCards)**: A React Native app that simplifies business card exchange using NFC technology.
 - **[PakoDJ](https://github.com/Pako3549/PakoDJ)**: A Discord bot written in Python that lets you play music directly in your server's voice channels.
