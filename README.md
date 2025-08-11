@@ -11,6 +11,7 @@ I'm a computer science student passionate about coding and videogames, always lo
 - **[dotfiles](https://github.com/Pako3549/dotfiles)**: My personal Linux setup with hyprland-based configuration focused on productivity and aesthetics, including custom scripts and tweaks for a smooth daily workflow.
 - **[QuickCards](https://github.com/Pako3549/QuickCards)**: A React Native app that simplifies business card exchange using NFC technology.
 - **[PakoDJ](https://github.com/Pako3549/PakoDJ)**: A Discord bot written in Python that lets you play music directly in your server's voice channels.
+- **[yt-downloader](https://github.com/Pako3549/yt-downloader)**: A Python script to download music from youtube using yt-dlp and webscraping with selenium. 
 
 ## 📊 Github Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Pako3549&layout=compact&langs_count=10&theme=dark)
