@@ -13,7 +13,7 @@ I'm a computer science student passionate about coding and videogames, always lo
 - **[PakoDJ](https://github.com/Pako3549/PakoDJ)**: A Discord bot written in Python that lets you play music directly in your server's voice channels.
 - **[yt-downloader](https://github.com/Pako3549/yt-downloader)**: A Python script to download music from youtube using yt-dlp and webscraping with selenium. 
 
-## 📊 Github Stats
+## 📊 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Pako3549&layout=compact&langs_count=10&theme=dark)
 ## 💻 Tools and Technologies
 <div align="left">
