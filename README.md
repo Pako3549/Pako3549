@@ -8,10 +8,10 @@ I'm a computer science student passionate about coding and videogames, always lo
 
 ## 🚀 Highlighted Projects
 - **[Guardians of the Void Cleanup Chaos](https://github.com/lvl-devs/cleanup-chaos)**: An exciting 2D space game built with Phaser 3 and TypeScript. Navigate through asteroid fields, collect space debris, and clean up the cosmos while avoiding dangerous obstacles.
-- **[dotfiles](https://github.com/Pako3549/dotfiles)**: My personal Linux setup with hyprland-based configuration focused on productivity and aesthetics, including custom scripts and tweaks for a smooth daily workflow.
 - **[QuickCards](https://github.com/Pako3549/QuickCards)**: A React Native app that simplifies business card exchange using NFC technology.
 - **[PakoDJ](https://github.com/Pako3549/PakoDJ)**: A Discord bot written in Python that lets you play music directly in your server's voice channels.
-- **[yt-downloader](https://github.com/Pako3549/yt-downloader)**: A Python script to download music from youtube using yt-dlp and webscraping with selenium. 
+- **[yt-downloader](https://github.com/Pako3549/yt-downloader)**: A Python script to download music from youtube using yt-dlp and webscraping with selenium.
+- **[dotfiles](https://github.com/Pako3549/dotfiles)**: My personal Linux setup with hyprland-based configuration focused on productivity and aesthetics, including custom scripts and tweaks for a smooth daily workflow. 
 
 ## 📊 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Pako3549&layout=compact&langs_count=10&theme=dark)
