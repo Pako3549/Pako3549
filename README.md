@@ -16,25 +16,7 @@ I'm a computer science student passionate about coding and videogames, always lo
 ## 📊 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Pako3549&layout=compact&langs_count=10&theme=dark)
 ## 💻 Tools and Technologies
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="80" alt="html5"/>
-  <img width="15"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="70" alt="css"/>
-    <img width="15"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="70" alt="javascript"/>
-  <img width="15"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="70" alt="typescript"/>
-  <img width="15"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="70" alt="reactnative"/>
-  <img width="15"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="70" alt="python"/>
-  <img width="15"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="70" alt="c"/>
-  <img width="15"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" height="70" alt="git"/>
-  <img width="15"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" height="70" alt="markdown"/>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,ts,react,py,c,docker,firebase,selenium,redhat,raspberrypi,nix,neovim,obsidian,md,git,github)](https://skillicons.dev)
 
 ## 📫 Contacts
 <div align="left">
