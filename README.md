@@ -16,7 +16,7 @@ I'm a computer science student passionate about coding and videogames, always lo
 ## 📊 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Pako3549&layout=compact&langs_count=10&theme=dark)
 ## 💻 Tools and Technologies
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,ts,react,py,c,docker,firebase,selenium,redhat,raspberrypi,nix,neovim,obsidian,md,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,py,c,docker,firebase,selenium,redhat,raspberrypi,nix,neovim,obsidian,md,git,github)](https://skillicons.dev)
 
 ## 📫 Contacts
 <div align="left">
