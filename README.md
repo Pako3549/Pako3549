@@ -14,7 +14,7 @@ I'm a computer science student passionate about coding and videogames, always lo
 - **[dotfiles](https://github.com/Pako3549/dotfiles)**: My personal Linux setup with hyprland-based configuration focused on productivity and aesthetics, including custom scripts and tweaks for a smooth daily workflow. 
 
 ## 📊 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Pako3549&layout=compact&langs_count=10&theme=dark)
+![My GitHub Stats](https://stats.pako.uk/api/top-langs/?username=Pako3549&layout=compact&langs_count=10&theme=dark)
 ## 💻 Tools and Technologies
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,prisma,py,c,docker,postman,postgres,firebase,selenium,redhat,debian,raspberrypi,nix,neovim,obsidian,notion,md,git,github)](https://skillicons.dev)
 
